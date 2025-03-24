@@ -7,7 +7,7 @@
 - **Auftrag:** 6. Aufgabenstellung: Umsetzung von Design in JAVA
 - **Datum:** 12.03.2025
 
-## Erkl�rung
+## Erklaerung
 
 Dieses Projekt ist eine grafische Benutzeroberflaeche fuer einen Bruchrechner.
 Es ermoeglicht die Eingabe von Bruechen und fuehrt Berechnungen wie Addition, Subtraktion, Multiplikation und Division durch.
