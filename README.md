@@ -14,7 +14,7 @@ Es ermoeglicht die Eingabe von Bruechen und fuehrt Berechnungen wie Addition, Su
 
 ## Bild der GUI
 
-![Bruchrechner GUI](src/images/bruchrechner_gui.png)
+![Bruchrechner GUI](src/images/Bruchrechner_GUI.png)
 
 ## Code
 
